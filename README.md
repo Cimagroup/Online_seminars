@@ -1,4 +1,4 @@
-# Online_seminars
+# Online seminars
 Seminars given by Cimagroup members
 
 * 3/16/2022 Rocío González Díaz, [Persistent entropy, a tool for topologically summarizing data](https://www.youtube.com/watch?v=Zt6mRqVhszw), Applied Algebraic Topology network.
